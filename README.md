@@ -14,8 +14,8 @@ This application is a basic backend solution for rust.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/user/my-application.git
-   cd my-application
+   git clone https://github.com/ToxicSSJ/rust-basic-crud.git
+   cd rust-basic-crud
    ```
 
 2. Install the required dependencies:
